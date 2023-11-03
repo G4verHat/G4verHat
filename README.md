@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @G4verHat
-- 👀 I’m interested in Gaming and comics
-- 🌱 I’m currently learning Python, JavaScript and C.
-- 💞️ I’m looking to collaborate on any project that is cool 
-- 📫 How to reach me: hit me up on Twitter: Gaver__
+- 👀 I’m interested in Gaming and Basketball
+- 🌱 I’m currently learning Python and Web development.
+- 💞️ I’m looking to collaborate on interesting projects, that can help me learn cool things. 
+- 📫 How to reach me: G4ver@protonmail.com
 
 <!---
 G4verHat/G4verHat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
