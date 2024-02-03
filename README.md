@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @G4verHat
-- 💻 I am a web developer
-- 📫 How to reach me: G4ver@protonmail.com
-- I made this project: github.com/constellationsproject/constellationsproject
+I write code.
 
+Contact: g4ver@protonmail.com
 
 <!---
 G4verHat/G4verHat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
